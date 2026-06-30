@@ -12,7 +12,7 @@ __pycache__/
 .vscode/
 
 # Large trained model
-models/*.pkl
+#models/*.pkl
 
 # Generated reports
 reports/
